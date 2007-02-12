@@ -1,5 +1,5 @@
 Summary:	Arabic dictionary for aspell
-Summary(pl.UTF-8):   Słownik arabski dla aspella
+Summary(pl.UTF-8):	Słownik arabski dla aspella
 Name:		aspell-ar
 Version:	1.2
 %define	subv	0
