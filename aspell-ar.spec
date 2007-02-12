@@ -1,5 +1,5 @@
 Summary:	Arabic dictionary for aspell
-Summary(pl):	S≥ownik arabski dla aspella
+Summary(pl.UTF-8):   S≈Çownik arabski dla aspella
 Name:		aspell-ar
 Version:	1.2
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Arabic dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik arabski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik arabski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-ar-%{version}-%{subv}
