@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik arabski dla aspella
 Name:		aspell-ar
 Version:	1.2
 %define	subv	0
-Release:	2
+Release:	3
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
